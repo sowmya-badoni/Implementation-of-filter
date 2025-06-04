@@ -1,6 +1,6 @@
 # Implementation-of-filter
-### Name - Ashwina K N
-### Register Number - 212223230025
+### Name - SOWMYA BADONI
+### Register Number - 212223230211
 ## Aim:
 To implement filters for smoothing and sharpening the images in the spatial domain.
 
